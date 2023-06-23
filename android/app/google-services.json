@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "105897902395",
+    "project_id": "famnotify-c2366",
+    "storage_bucket": "famnotify-c2366.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105897902395:android:5b072e1694b03ac914371e",
+        "android_client_info": {
+          "package_name": "com.example.fam_notify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105897902395-jt0comq8kbubrj59dv1ugsfel5qf9c8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrpwN6fdn0_1L5UUSGhuYe0oTyK1blUi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105897902395-jt0comq8kbubrj59dv1ugsfel5qf9c8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

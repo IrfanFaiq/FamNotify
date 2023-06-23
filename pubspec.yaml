@@ -1,0 +1,33 @@
+name: fam_notify
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=2.19.2 <3.0.0'
+
+dependencies:
+  cloud_firestore: ^4.5.3
+  firebase_admin: ^0.2.0
+  firebase_auth: ^4.6.2
+  firebase_core: ^2.9.0
+  firebase_messaging: ^14.6.2
+  flutter:
+    sdk: flutter
+  flutter_local_notifications: ^14.1.1
+  flutter_otp_text_field: ^1.1.1
+  google_maps_flutter: ^2.3.1
+  http: ^0.13.6
+  location: ^4.4.0
+  pin_input_text_field: ^4.5.0
+  sensors_plus: ^3.0.2
+  sidebarx: ^0.15.0
+  url_launcher: ^6.1.11
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
